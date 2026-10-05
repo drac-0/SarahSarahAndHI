@@ -3,12 +3,6 @@
 #include <string.h>
 #include <string.h>
 
-
-int grep(){
-
-}
-
-
 int main(void) {
       sd_journal *a = NULL;
       int ret;
@@ -60,7 +54,7 @@ int main(void) {
 
             ret = sd_journal_get_data(a, "MESSAGE", &data, &length);
             if (ret > 0 && strstr((const char *) data, "Accepted password") != NULL) {
-                  
+                  //where the logic would be later, LATER, and more later. 
             }
 
       }
