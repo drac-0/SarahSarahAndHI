@@ -1,4 +1,4 @@
-# This either would be random side project or a cope from AnnaKav stagnant process
+# This either would be random side project or a total dedication to cope from AnnaKav stagnant process
 
 ## Foreword
 
@@ -9,6 +9,3 @@ i don't know what this project purpose in the first place, i just haven't make a
 One thing cross my mind when i brew the homeserver. And that is **SSH Alerter**.
 
 This is pretty exciting, finally i step my foot onto the baremetal programming. 
-
-i will let anything
-
